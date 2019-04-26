@@ -6,4 +6,4 @@ To build a Docker image
 
 To run the container
 
-``` docker run -p 8083:8083 express-containe ```
+``` docker run -p 8083:8083 express-container ```
