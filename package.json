@@ -1,0 +1,27 @@
+{
+  "name": "express-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniormfreitas/node-express-container.git"
+  },
+  "keywords": [
+    "Docker",
+    "js",
+    "node"
+  ],
+  "author": "J de Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniormfreitas/node-express-container/issues"
+  },
+  "homepage": "https://github.com/juniormfreitas/node-express-container#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
